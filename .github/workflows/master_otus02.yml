@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'otus02'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_7902F80C5538473EA8F10AADBC66D2D0 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_698E16C43F61416D9A32E377AF329D80 }}
           package: .
